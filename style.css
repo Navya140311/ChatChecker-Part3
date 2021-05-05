@@ -1,0 +1,49 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+#status ,#number_of_objects
+{
+font-size: 18px;
+}
+#fan_div
+{
+    width: 500px;
+    margin: 10px;
+    border-radius: 10px;
+}
+#fan_anchor
+{
+    color:yellow;
+}
+
+#cupboard_div
+{
+    width: 500px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: pink;
+}
+#cupboard_anchor
+{
+    color:rgb(104, 79, 216);
+}
+
+#ac_div
+{
+    width: 500px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: peachpuff;
+}
+#ac_anchor
+{
+    color: #fc766a;;
+}
